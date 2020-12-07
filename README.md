@@ -18,4 +18,3 @@ We are now collecting dubbo user info in order to help us to improve dubbo bette
 * [Dubbo user manual](http://dubbo.io/books/dubbo-user-book/)
 * [Dubbo developer guide](http://dubbo.io/books/dubbo-dev-book/)
 * [Dubbo admin manual](http://dubbo.io/books/dubbo-admin-book/)
-* 1111
